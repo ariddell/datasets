@@ -52,7 +52,7 @@ The Castle of Mowbray, 1788.
 The Castle of Ollada, 1795. 
 The Castle of Otranto, 1764. 
 The Castle of Roviego; or, Retribution, 1805. 
-The Castle of St. Caranzu, 18·03. 
+The Castle of St. Caranzu, 1803. 
 The Castle of St Vallery, 1792. 
 The Castle of Santa Fe, 1805. 
 The Castle of Strathmay, 1814. 
@@ -186,8 +186,8 @@ The Labyrinth of Corcira, 1804.
 Lady Jane Grey, 1791. 
 The Lady of the Cave; or, Mysteries of the Fourteenth Century, 1802. 
 Laughton Priory, 1809. 
-Legends of a Nunnery, IS07. 
-Llewellyn, 17·99. 
+Legends of a Nunnery, 1807.
+Llewellyn, 1799. 
 Louisa; or, the Black Tower, 1805. 
 Love, Mystery and Misery !, 1810. 
 Lucy, 1794. 
@@ -213,7 +213,7 @@ The Monk, 1796.
 The Monk of Hennares, 1817. 
 The Monk of Udolpho, 1807. 
 The Monks and the Robbers, 1808.
-Montbrasil Abbey, 1806
+Montbrasil Abbey, 1806.
 Monteith, 1806. 
 Montfort Castle, 1796. 
 Montrose; or, the Gothic Ruin, 1799. 
@@ -246,7 +246,7 @@ The Mystic Cottager of Chamouny, 1794.
 The Mystic Sepulchre; or, Such Things Have Been, 1807. 
 
 The Neapolitan, 1796. 
-The Necromancer; or, the Tale of the Black Forest, 1794 
+The Necromancer; or, the Tale of the Black Forest, 1794.
 Netley Abbey, a Gothic Story, 1795. 
 Neville Castle; or, the Generous Cambrians, 1802.
 The Noble Wanderers, 1802. 
