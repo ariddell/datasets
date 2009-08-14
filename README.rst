@@ -4,7 +4,13 @@ Various datasets used in a distant reading project.
 Sources
 =======
 
-For the gothic novel: 
+Gothic novel:
 
-* Lévy, Maurice. 1968. Le Roman gothique anglais, 1764-1824. Toulouse: Association des publications de la Faculté des lettres et sciences humaines.
+* Lévy, Maurice. 1968. *Le Roman gothique anglais, 1764-1824*. Toulouse: Association des publications de la Faculté des lettres et sciences humaines.
+
+Silver fork:
+
+* Adburgham, Alison. 1983. *Silver Fork Society*. London: Constable.
+
+
 
