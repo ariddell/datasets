@@ -1,9 +1,12 @@
+Datasets for various novelistic (sub)genres
 
-Various datasets used in a distant reading project.
+* Gothic novels (349 titles)
 
-Sources for datasets:
+  Source: Lévy, Maurice. 1968. Le Roman gothique anglais, 1764-1824. Toulouse:
+  Association des publications de la Faculté des lettres et sciences humaines.
 
-* Gothic novel: Lévy, Maurice. 1968. Le Roman gothique anglais, 1764-1824. Toulouse: Association des publications de la Faculté des lettres et sciences humaines.
-* Silver Fork: Adburgham, Alison. 1983. Silver Fork Society. London: Constable.
+* Silver fork novels (100 titles)
 
+  Source: Adburgham, Alison. 1983. Silver Fork Society. London: Constable.
 
+Please report typos, issues here: http://github.com/ariddell/distantreader-datasets/issues (or send a pull request).
