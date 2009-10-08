@@ -9,4 +9,4 @@ Datasets for various novelistic (sub)genres
 
   Source: Adburgham, Alison. 1983. Silver Fork Society. London: Constable.
 
-Please report typos, issues here: http://github.com/ariddell/distantreader-datasets/issues (or send a pull request).
+Please report typos, issues here: http://github.com/ariddell/unread-datasets/issues (or send a pull request).
