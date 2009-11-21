@@ -1,5 +1,5 @@
-Datasets for various novelistic (sub)genres
-===========================================
+Datasets for novel (sub)genres
+==============================
 
 *   Gothic novels (349 titles)
 
@@ -10,4 +10,6 @@ Datasets for various novelistic (sub)genres
 
     Source: Adburgham, Alison. 1983. Silver Fork Society. London: Constable.
 
-Please report typos, issues here: http://github.com/ariddell/unread-datasets/issues (or send a pull request).
+CSV files are tab-delimited. Please report typos or other errors using the
+issues tracker. The field "INCOLLECTION_IA_IDS" is to note if a novel occurs
+alongside others within a collection.
