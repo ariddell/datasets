@@ -1,45 +1,45 @@
-"genre_name","start","end","source","source_pub_year","notes","cluster_guess","number_in_genre"
-"Courtship Novel",1740,1820,"Green, The Courtship Novel 1740-1820",1991,,,
-"Picaresque",1748,1790,"Chandler, The Literature of Roguery",1907,"oldest",,
-"Oriental Tale",1759,1787,"Baker, The History of the English Novel",1924,,,
-"Epistolary Novel",1766,1795,"Raven in The English Novel, vol. I",2000,,"late 1760s",
-"Sentimental Novel",1768,1790,"Mullan in The Cambridge Companion to the Eighteenth-Century Novel",1996,,"late 1760s",
-"Spy' Novel",1770,1800,"Flint in PMLA 113 (2)",1998,,"late 1760s",
-"Ramble Novel",1773,1790,"Dickie, The Mid-Century 'Ramble' Novels",2000,,,
-"Jacobin Novel",1789,1805,"Kelly, The English Jacobin Novel 1780-1805",1967,,"early 1790s",
-"Gothic Novel",1790,1820,"Garside in The English Novel, vol. II",2000,,"early 1790s",
-"Anti-Jacobin Novel",1791,1805,"Grenby, The Anti-Jacobin Novel",2001,,"early 1790s",
-"National Tale",1800,1831,"Trumpener in The Encyclopedia of the Novel, vol. II",1998,,,
-"Village Stories",1804,1832,"Kelly, English Fiction of the Romantic Period, 1789-1830",1989,,,
-"Evangelical Novel",1808,1819,"Garside in The English Novel, vol. II",2000,,,
-"Historical Novel",1814,1848,"Rance, The Historical Novel and Popular Politics in Nineteenth-Century England",1975,,,
-"Romantic Farrago",1822,1847,"Kelly, English Fiction of the Romantic Period, 1789-1830",1989,,,
-"Silver-Fork Novel",1825,1842,"Adburgham, Silver Fork Society",1983,,"late 1820s",99
-"Military Novel",1826,1850,"Garside in The English Novel",2000,,"late 1820s",
-"Nautical Tales",1828,1850,"Wheeler, English Fiction of the Victorian Period",1985,,"late 1820s",
-"Newgate Novel",1830,1847,"Hollingsworth, The Newgate Novel",1963,,"late 1820s",
-"Conversion Novel",1830,1853,"Gracombe, Anxieties of Influence",2003,,"late 1820s",
-"Industrial Novel",1832,1867,"Gallagher, The Industrial Reformation of English Fiction",1985,,"late 1820s",
-"Sporting Novel",1838,1867,"Sutherland in The Stanford Companion to Victorian Literature",1989,,,
-"Chartist Novel",1839,1852,"Klaus, The Literature of Labour",1985,,,
-"Mysteries",1846,1870,"Maxwell, The Mysteries of Paris and London",1992,,,
-"Multiplot Novel",1846,1872,"Benford, The Multiplot Novel and Victorian Culture",2003,,,
-"Bildungsroman",1847,1872,"Minden in The Encyclopedia of the Novel, vol. II",1998,,1850,
-"Religious Novel",1848,1856,"Wheeler, English Fiction of the Victorian Period",1985,"briefest period",1850,
-"Domestic Novel",1849,1872,"Sutherland, Stanford Companion to Victorian Literature",1989,,1850,
-"Provincial Novel",1850,1873,"Duncan in A Companion to the Victorian Novel",2003,,1850,
-"Sensation Novel",1850,1876,"Rance, Wilkie Collins and Other Sensation Novelists",1991,,1850,
-"Fantasy",1850,1895,"Manlove, Modern Fantasy",1975,,1850,
-"Children's Adventures",1851,1883,"Sutherland, Stanford Companion to Victorian Literature",1989,,1850,
-"School Stories",1857,1881,"Quigly, The Heirs of Tom Brown",1982,,,
-"Imperial Romances",1868,1902,"Bristow, Empire Boys",1991,,"early 1870s",
-"Invasion Literature",1871,1914,"Clarke, The Tale of the Next Great War",1995,"many stories appearing in periodicals","early 1870s",
-"Utopia",1872,1901,"Wheeler, English Fiction of the Victorian Period",1985,,"early 1870s",
-"Cockney School",1872,1897,"Sutherland in The Stanford Companion to Victorian Literature",1985,,"early 1870s",
-"Regional Novel",1873,1896,"Duncan, 'The Provincial or Regional Novel'",2002,,"early 1870s",
-"Nursery Stories",1876,1906,"Avery, Nineteenth Century Children",1965,,,
-"Decadent Novel",1884,1906,"Mandal in The Encyclopedia of the Novel, vol. I",1998,,"Mid-late 1880s",
-"Naturalist Novel",1885,1915,"Frierson, L'influence du naturalisme français sur les romanciers anglais de 1885 à 1900",1925,,"Mid-late 1880s",
-"Imperial Gothic",1885,1916,"Brantlinger, Rule of Darkness",1988,,"Mid-late 1880s",
-"New Woman Novel",1888,1899,"Ardis, New Women, New Novels",1990,,"Mid-late 1880s",
-"Kailyard School",1888,1900,"Sutherland in The Stanford Companion to Victorian Literature",1989,,"Mid-late 1880s",
+"genre_name","start","end","source","source_pub_year","cluster_guess"
+"Courtship Novel",1740,1820,"Green, The Courtship Novel 1740-1820",1991,
+"Picaresque",1748,1790,"Chandler, The Literature of Roguery",1907,
+"Oriental Tale",1759,1787,"Baker, The History of the English Novel",1924,
+"Epistolary Novel",1766,1795,"Raven in The English Novel, vol. I",2000,"late 1760s"
+"Sentimental Novel",1768,1790,"Mullan in The Cambridge Companion to the Eighteenth-Century Novel",1996,"late 1760s"
+"Spy' Novel",1770,1800,"Flint in PMLA 113 (2)",1998,"late 1760s"
+"Ramble Novel",1773,1790,"Dickie, The Mid-Century 'Ramble' Novels",2000,
+"Jacobin Novel",1789,1805,"Kelly, The English Jacobin Novel 1780-1805",1967,"early 1790s"
+"Gothic Novel",1790,1820,"Garside in The English Novel, vol. II",2000,"early 1790s"
+"Anti-Jacobin Novel",1791,1805,"Grenby, The Anti-Jacobin Novel",2001,"early 1790s"
+"National Tale",1800,1831,"Trumpener in The Encyclopedia of the Novel, vol. II",1998,
+"Village Stories",1804,1832,"Kelly, English Fiction of the Romantic Period, 1789-1830",1989,
+"Evangelical Novel",1808,1819,"Garside in The English Novel, vol. II",2000,
+"Historical Novel",1814,1848,"Rance, The Historical Novel and Popular Politics in Nineteenth-Century England",1975,
+"Romantic Farrago",1822,1847,"Kelly, English Fiction of the Romantic Period, 1789-1830",1989,
+"Silver-Fork Novel",1825,1842,"Adburgham, Silver Fork Society",1983,"late 1820s"
+"Military Novel",1826,1850,"Garside in The English Novel",2000,"late 1820s"
+"Nautical Tales",1828,1850,"Wheeler, English Fiction of the Victorian Period",1985,"late 1820s"
+"Newgate Novel",1830,1847,"Hollingsworth, The Newgate Novel",1963,"late 1820s"
+"Conversion Novel",1830,1853,"Gracombe, Anxieties of Influence",2003,"late 1820s"
+"Industrial Novel",1832,1867,"Gallagher, The Industrial Reformation of English Fiction",1985,"late 1820s"
+"Sporting Novel",1838,1867,"Sutherland in The Stanford Companion to Victorian Literature",1989,
+"Chartist Novel",1839,1852,"Klaus, The Literature of Labour",1985,
+"Mysteries",1846,1870,"Maxwell, The Mysteries of Paris and London",1992,
+"Multiplot Novel",1846,1872,"Benford, The Multiplot Novel and Victorian Culture",2003,
+"Bildungsroman",1847,1872,"Minden in The Encyclopedia of the Novel, vol. II",1998,1850
+"Religious Novel",1848,1856,"Wheeler, English Fiction of the Victorian Period",1985,1850
+"Domestic Novel",1849,1872,"Sutherland, Stanford Companion to Victorian Literature",1989,1850
+"Provincial Novel",1850,1873,"Duncan in A Companion to the Victorian Novel",2003,1850
+"Sensation Novel",1850,1876,"Rance, Wilkie Collins and Other Sensation Novelists",1991,1850
+"Fantasy",1850,1895,"Manlove, Modern Fantasy",1975,1850
+"Children's Adventures",1851,1883,"Sutherland, Stanford Companion to Victorian Literature",1989,1850
+"School Stories",1857,1881,"Quigly, The Heirs of Tom Brown",1982,
+"Imperial Romances",1868,1902,"Bristow, Empire Boys",1991,"early 1870s"
+"Invasion Literature",1871,1914,"Clarke, The Tale of the Next Great War",1995,"early 1870s"
+"Utopia",1872,1901,"Wheeler, English Fiction of the Victorian Period",1985,"early 1870s"
+"Cockney School",1872,1897,"Sutherland in The Stanford Companion to Victorian Literature",1985,"early 1870s"
+"Regional Novel",1873,1896,"Duncan, 'The Provincial or Regional Novel'",2002,"early 1870s"
+"Nursery Stories",1876,1906,"Avery, Nineteenth Century Children",1965,
+"Decadent Novel",1884,1906,"Mandal in The Encyclopedia of the Novel, vol. I",1998,"Mid-late 1880s"
+"Naturalist Novel",1885,1915,"Frierson, L'influence du naturalisme français sur les romanciers anglais de 1885 à 1900",1925,"Mid-late 1880s"
+"Imperial Gothic",1885,1916,"Brantlinger, Rule of Darkness",1988,"Mid-late 1880s"
+"New Woman Novel",1888,1899,"Ardis, New Women, New Novels",1990,"Mid-late 1880s"
+"Kailyard School",1888,1900,"Sutherland in The Stanford Companion to Victorian Literature",1989,"Mid-late 1880s"
