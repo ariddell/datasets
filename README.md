@@ -1,6 +1,10 @@
 Datasets for novel (sub)genres
 ==============================
 
+*   Franco Moretti's Periodizations of British novelistic geners, 1740-1900 (44 genres)
+
+    Source: Franco Moretti. 2005. Graphs, Maps, Trees. London: Verso. p. 31-33
+
 *   Gothic novels (349 titles)
 
     Source: Lévy, Maurice. 1968. Le Roman gothique anglais, 1764-1824. Toulouse:
@@ -10,6 +14,4 @@ Datasets for novel (sub)genres
 
     Source: Adburgham, Alison. 1983. Silver Fork Society. London: Constable.
 
-CSV files are tab-delimited. Please report typos or other errors using the
-issues tracker. The field "INCOLLECTION_IA_IDS" is to note if a novel occurs
-alongside others within a collection.
+Please report any errors or typos.
